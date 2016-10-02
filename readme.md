@@ -70,7 +70,6 @@ Just as in a real life scenario, the data and your analysis will not always be c
 - Download the [data](./assets/datasets/airport2.csv)
 - Grab the [starter code](./code/starter-code/starter-code.ipynb) to get started. 
 
-> [Solution Code Here](./code/solution-code/solution-code.ipynb)
 
 #### Deliverable
 
